@@ -24,13 +24,6 @@ El objetivo es **identificar patrones de abandono de clientes, causas principale
 
 ---
 
-## 📷 Capturas del Dashboard
-Incluye gráficas de churn rate, motivos de abandono, segmentación de clientes, contratos y mapas interactivos.  
-
-*(Aquí puedes subir las imágenes que ya me compartiste con un enlace o incrustadas en el README)*
-
----
-
 ## ⚡ Cómo ejecutar el proyecto
 1. Descargar el archivo `.pbix` desde este repositorio.  
 2. Abrirlo en **Power BI Desktop**.  
